@@ -19,7 +19,7 @@ On Linux, Kvazzup offers both detection of installed packages as well as install
 
 | Library  | Source Build  | Package Available |
 | :---     | :---:         | :---:             | 
-| Kvazaar  |     Yes       |    [Arch Linux](https://archlinux.org/packages/community/x86_64/kvazaar/) | 
+| Kvazaar  |     Yes       |    [Arch Linux](https://archlinux.org/packages/extra/x86_64/kvazaar/) | 
 | OpenHEVC |     Yes       |        None       | 
 | uvgRTP   |     Yes       |        None       | 
 | Opus     |     Yes       |        Often      | 
